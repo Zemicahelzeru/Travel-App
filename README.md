@@ -98,6 +98,4 @@ This project is deployed on Vercel. The deployment is automatically triggered wh
 
 This project is licensed under the MIT License.
 
-## Author
 
-Elias Zeru - [GitHub](https://github.com/eliaszeru)
